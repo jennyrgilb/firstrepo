@@ -14,7 +14,7 @@ import glob
 #fslmaths=fsl.maths(args='-thr 0.5','-bin')
 
 #set paths
-basepath='/Volumes/macX/EXPERIMENT_NAME/'#this should be the path to whatever directory your experiment lives in 
+basepath='/Volumes/macX/juice/'#this should be the path to whatever directory your experiment lives in 
 maskdir='/Volumes/macX/timecourse/'#this is the path to where ever you keep your masks
 outputdir='/Volumes/macX/juice/w1subjects/masks/'
 #open file to append to 
